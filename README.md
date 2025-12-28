@@ -23,6 +23,7 @@ Tools Used: Power BI (Power Query, DAX)
 ### 📖 What is this project about? 
 
 - This project analyzes purchasing data from Wide World Importers (WWI) in Power BI to help the business understand where money is spent, what items drive cost, and which suppliers perform best :
+  
     ✔️ Analyze WWI purchasing data in Power BI to understand spend trends and the main drivers by supplier and SKU.
     ✔️ Identify price gaps vs best price and estimate potential savings to support negotiation and cost control.
     ✔️ Evaluate supplier performance (cost + delivery/received rate) and turn insights into actionable procurement recommendations.
