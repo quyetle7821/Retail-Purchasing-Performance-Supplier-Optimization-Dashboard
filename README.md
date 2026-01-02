@@ -1,12 +1,7 @@
 # 📊 Procurement Spend & Supplier Performance Analysis | Retail Import/Distribution | Power BI (Power Query + DAX)
-- **Business questions** :
-  +  How does purchasing spend change over time, and what drives it by supplier/SKU?
-  +  Where are the price gaps vs best price, and how much potential savings can we capture?
-  +  Which suppliers deliver the best balance of cost vs delivery performance (received/on-time rate)?
-    
-- **Domain** : Procurement / Purchasing Analytics for a retail import & distribution company (Wide World Importers – WWI), focusing on spend control, supplier evaluation, and delivery reliability.
-  
-📌 **Goal** : Build a Power BI dashboard to monitor purchasing cost, ordering trends, supplier effectiveness, and provide actionable insights & recommendations to optimize procurement operations.
+
+<img width="1361" height="902" alt="image" src="https://github.com/user-attachments/assets/65366862-62e0-489b-b150-a615c15679bd" />
+
 
 Author: Lê Trường Quyết
 
@@ -50,6 +45,8 @@ Tools Used: Power BI (Power Query, DAX)
     + Total rows: ~915,249 rows across all tables 
     + Columns: varies by table (6 → 21 columns)
   - Format : .xlsx
+
+
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
